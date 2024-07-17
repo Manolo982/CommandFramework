@@ -1,0 +1,9 @@
+dev\manolo\commandframeworks\example\Example.class
+dev\manolo\commandframeworks\BukkitCommand.class
+dev\manolo\commandframeworks\CommandFramework.class
+dev\manolo\commandframeworks\BukkitCompleter.class
+dev\manolo\commandframeworks\Completer.class
+dev\manolo\commandframeworks\Command.class
+dev\manolo\commandframeworks\CommandArgs.class
+dev\manolo\commandframeworks\example\manager\CommandManage.class
+dev\manolo\commandframeworks\example\commands\FeelCommand.class

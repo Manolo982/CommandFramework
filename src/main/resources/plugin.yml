@@ -1,0 +1,4 @@
+name: CommandFrameworks
+version: '${project.version}'
+main: dev.manolo.commandframeworks.example.Example
+api-version: '1.21'
